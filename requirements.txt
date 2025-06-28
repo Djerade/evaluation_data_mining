@@ -4,7 +4,7 @@ seaborn
 matplotlib
 jupyter 
 scikit-learn
-xgboost
+# xgboost
 mlxtend
 streamlit
 plotly
